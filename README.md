@@ -1,7 +1,7 @@
 # UserSettingsAccess
 Liest Werte aus einer Datei ein (z.B. Vishnu.exe.config.user). Unterstützt Xml- und Json-Format.
 Siehe das enthaltene Projekt UserSettingsAccessDemo.
-Dieses Projekt wird intern durch BasicAppSettings und AppEnvReader angezogen.
+Dieses Projekt wird intern durch BasicAppSettings und SettingsAccess angezogen.
 
 ## Einsatzbereich
 

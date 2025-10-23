@@ -1,6 +1,6 @@
 ﻿using System.Xml.Serialization;
 
-namespace NetEti.FileTools
+namespace NetEti.ApplicationEnvironment
 {
     /// <summary>
     /// Datenklasse für die Serialisierung und De-Serialisierung von User-Parametern

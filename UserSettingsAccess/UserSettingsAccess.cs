@@ -2,7 +2,7 @@
 using NetEti.ObjectSerializer;
 using System.Text.Json;
 
-namespace NetEti.FileTools
+namespace NetEti.ApplicationEnvironment
 {
     /// <summary>
     /// Liest Dateien mit User-Konfigurationsparametern
